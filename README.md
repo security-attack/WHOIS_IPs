@@ -18,5 +18,5 @@ python3 ./ip_to_cidr.py
 I hope it is useful :-)
 
 
-https://twitter.com/behnamSec
-https://twitter.com/_securityattack
+[Behnam](https://twitter.com/behnamSec)
+[Sina](https://twitter.com/_securityattack)
